@@ -6,13 +6,14 @@ Essa competição usa o banco de dados [California Housing Dataset](https://inri
 
 As principais informações contidas no conjunto de dados são:
 
-- MedInc (Renda Média): A renda média dos habitantes em um bloco de casas (em unidades de $10,000).
-- HouseAge (Idade da Casa): A mediana da idade das casas em um bloco.
-- AveRooms (Média de Quartos): A média de quartos nas casas em um bloco.
-- AveBedrms (Média de Quartos para Dormir): A média de quartos para dormir nas casas em um bloco.
-- Population (População): O número de pessoas que ocupam casas em um bloco.
-- AveOccup (Média de Ocupação): A média de ocupantes por casa em um bloco.
-- Latitude (Latitude): Latitude da localização da casa.
-- Longitude (Longitude): Longitude da localização da casa.
+- **MedHouseVal:** Valor mediano das casas em cada bloco .
+- **MedInc:** Renda mediana dos habitantes em um bloco (em unidades de $10,000).
+- **HouseAge:** Mediana da idade das casas em um bloco.
+- **AveRooms:** Número médio de quartos por domicílio.
+- **AveBedrms:** Número médio de quartos por família.
+- **Population:** Número de pessoas que ocupam casas em um bloco.
+- **AveOccup:** Número médio de membros do domicílio.
+- **Latitude:** Latitude da localização da casa.
+- **Longitude:** Longitude da localização da casa.
 
-O objetivo da tarefa é prever o valor médio das casas em cada bloco (chamado de "target" ou "rótulo"). Este valor representa o valor médio da casa em unidades de $100,000.  
+O objetivo da tarefa é prever o valor mediano (MedHouseVal) das casas em cada bloco (chamado de "target" ou "rótulo"). Este valor representa o valor médio da casa em unidades de $100,000.  
