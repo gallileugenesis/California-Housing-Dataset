@@ -1,4 +1,4 @@
-# Kaggle Competition: Regression with a Tabular California Housing Dataset (em contratução)
+# Kaggle Competition: Regression with a Tabular California Housing Dataset (em construção)
 
 O objetivo desse projeto é explorar a competição Kaggle [Regression with a Tabular California Housing Dataset](https://www.kaggle.com/competitions/playground-series-s3e1/overview), implementando diversas variações de pré-processamento, extração de recursos e modelos. 
 
