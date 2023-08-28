@@ -17,3 +17,6 @@ As principais informações contidas no conjunto de dados são:
 - **Longitude:** Longitude da localização da casa.
 
 O objetivo da tarefa é prever o valor mediano (MedHouseVal) das casas em cada bloco (chamado de "target" ou "rótulo"). Este valor representa o valor médio da casa em unidades de $100,000.  
+
+Os modelos testados foram os seguintes:
+- **Linear Regression:** modelo mais simples, usado como baseline. Em seu melhor score obteve um RMSE de 1.35543. Para mais detalhes ver a pasta [Linear_Regression_Solution](https://github.com/gallileugenesis/California-Housing-Dataset/tree/main/Linear_Regression_Solution).
