@@ -2,7 +2,7 @@
 
 O objetivo desse projeto é explorar a competição Kaggle [Regression with a Tabular California Housing Dataset](https://www.kaggle.com/competitions/playground-series-s3e1/overview), implementando diversas variações de pré-processamento, extração de recursos e modelos. 
 
-Essa competição usa o banco de dados [California Housing Dataset](https://inria.github.io/scikit-learn-mooc/python_scripts/datasets_california_housing.html), que é frequentemente usado em tarefas de regressão e fornece informações sobre os preços das casas em várias regiões da Califórnia. Ele contém características relacionadas a vários aspectos das casas e seus arredores. 
+Essa competição usa o banco de dados [California Housing Dataset](https://inria.github.io/scikit-learn-mooc/python_scripts/datasets_california_housing.html), que fornece informações sobre os preços das casas em várias regiões da Califórnia. Ele contém características relacionadas a vários aspectos das casas e seus arredores. 
 
 As principais informações contidas no conjunto de dados são:
 
